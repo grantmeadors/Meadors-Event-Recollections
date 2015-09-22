@@ -4,15 +4,91 @@ Recollections of the event
 
 Monday, 14 September 2015:
 
+Who knew life in Germany would be so hectic? 
+Everyone has been talking about O1, the first Advanced LIGO observing run, since I got here eight months ago.
+Indeed, since long before.
+Here we are; the date has slipped a day from tomorrow to the end of the week, but it is about to start.
+I am less nervous than most.
+My work here at AEI Hannover is on continuous waves, the kind of searches that look for neutron stars slowly, steadily radiating out gravitational waves.
+Our analyses do not really begin until all the data is in -- and that will not be until the run ends around the same time the year does.
+But when it starts, that starts a ticking clock: three months to finish my lingering study of S6 data, from the sixth and final run of Initial LIGO.
+It will soon be boring, but it is the legacy of my thesis: I want it published so all that work does not go to waste, before it is made obsolete by someone, probably me, doing something almost identical with the new data.
+And that is why my life still feels hectic.
+Two collaborators are here.
+There's an offer on the table to travel.
+I have to renew my passport.
+And the previous renter in my apartment is getting scary letters.
+So much to do!
+There's no time for anything new or interesting.
+Space is calling out to us?
+Well then quiet it down and tell it to come back next year! 
+We're not ready -- I'm not ready -- and the to-do list is a Megaparsec long.
+
 Tuesday, 15 September 2015:
+
+An email: it's our director.
+"Dear Group", it begins. 
+It says that we are having a special meeting -- LSC members only.
+Oh, dear.
+I hope that it's just a briefing on the start of O1, but what if someone put in a blind injection?
+A blind injection just like the Big Dog, the injection that came in September 2010 at the end of S6.
+When that simulated signal came -- quickly pinpointed to a "banana island" region on the sky centered on the constellation Canis Major, hence the name -- most people suspected pretty quickly that it was simulated, injected into LIGO to test our searches' sensitivity.
+There was a lot of fuss.
+I was at Hanford Observatory at the time.
+We check the calibration three different ways, urgently; the instrument was going to be ripped apart to make way for Advanced LIGO.
+But we checked anyway.
+And for a moment there at the next conference, in Arcadia, California -- was that town to live up to its name? -- it felt like we about to enter a new era in history.
+Most everything checked out, the parameters looked good, at least to a novice like me.
+But there was only one way of telling whether it was real or not: to open the envelop and see if it was a blind injection.
+So we waited anxiously as we can to the presentation that would reveal all.
+Boldly, we waited for the answer: we voted to send it to Physical Review Letters if it were real.
+Then came the slide: "Envelop", it said, missing an "e" at the end.
+And inside... the parameters people had estimated, with a few discrepancies that later turned out to be a bug -- in the injection code.
+The parameters came from the simulation.
+It wasn't real.
+And so Advanced LIGO was built, knowing Initial LIGO never saw anything, yet with confidence that sometime -- maybe by the end of the decade, we finally would.
+
+So I went up to the appointed meeting this day in 2015.
+All the seats were taken, so I stood by a pillar.
+Our director came in and closed and locked the door, about thirty of us there, a few with laptops open.
+"Should we close the blinds?" I asked, semi-seriously.
+This was a secret meeting, after all, and our LSC spokesperson had just emphasized our need for secrecy; whether ultimately necessary or not, we might as well adhere to policy.
+"Actually, that's a good idea", he said, "there are a lot of people here for the conference".
+Ah, the conference downstairs -- the one about LISA, the space interferometer to complement LIGO, and whether it might be possible to build a third arm for it.
+People lowered the blinds and closed the windows.
+Laptops were connected to the projector.
+I stood leaning on the pillar, staring right at the view.
+It was a wiki page, one of many in LIGO, but this one was different.
+"This is not a blind injection".
+
+
+Wave of information, sense of history, like being at the beginning of an action thriller.
+Simultaneously, sense of being on the outside.
+What to call it -- lots of uncertainty where it came from, but most likely from near the head of the constellation Hydra. 
+How about "Hydra's Head"?
+Hmm, I am not sure I like all the associations: not the friendliest of mythical beasts, nor of supervillain organizations.
+
 
 Wednesday, 16 September 2015:
 
 Thursday, 17 September 2015:
 
+We should check the data.
+Save all the data -- offline.
+Just in case.
+
 Friday, 18 September 2015:
 
+O1 begins.
+We listened to the sounds.
+
 Saturday, 19 September 2015:
+
+On the Event log, all the hardware injection channels checked.
+They look good, and our hardware injections were not ready.
+If this were faked, it would have had to have been done in software -- and by somebody really good.
+I am starting to believe it is real.
+Walked home to fireworks.
 
 Sunday, 20 September 2015:
 
