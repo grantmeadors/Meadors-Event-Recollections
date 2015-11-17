@@ -4,7 +4,7 @@ Recollections of the event
 
 EDITED VERSION, 17 November 2015
 
-Monday, 14 September 2015 (as told 17 November 2015):
+Monday, 14 September 2015:
 
 O1, the first Advanced LIGO observing run: for long years, the letters gleamed like glyphs from the future -- this week, it starts.
 Charts and checklists Megaparsecs-long are ended.
@@ -14,7 +14,7 @@ Yet those at the observatories and in the depths of the instrument must make the
 Hectic days and sleepless nights!
 Millions of meters away, all I perceive is the quiet.
 
-Tuesday, 15 September 2015 (as told 17 November 2015):
+Tuesday, 15 September 2015:
 
 "Dear Group", begins our director's email: we LIGO members are having special meeting.
 Maybe, I wonder, someone put in a blind injection.
@@ -44,6 +44,18 @@ Questions: where is it from, what do we call it.
 And what is the false alarm probability?
 At last these words have gravity.
 For the first time, perhaps gravity has a voice.
+
+Saturday, 19 September 2015:
+
+Fireworks burst over Herrenhaeuser Gartens on my walk home.
+I am lured by the spectacle.
+On Thursday my impulse was to archive the data, offline, just in case.
+On Friday, I wanted to listen to the sound of the merging black holes myself.
+My friends and colleagues and I had sat down, playing that little thunderclap again, amplifying and stretching it to hear it better. 
+Only today, though, when I looked at the Event log, did my fears begin to abate.
+All hardware channels checked, it said; our injections, indeed, were not ready.
+As fireworks light my way home, I let myself start to think The Event is real.
+
 
 ORIGINAL VERSION, 22 September 2015
 
