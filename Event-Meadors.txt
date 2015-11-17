@@ -1,8 +1,28 @@
 Grant David Meadors
-02015-09-21 (JD 2457287)
+02015-11-17 (JD 2457344)
 Recollections of the event
 
-Monday, 14 September 2015:
+EDITED VERSION, 17 November 2015
+
+Monday, 14 September 2015 (as told 17 November 2015):
+
+O1, the first Advanced LIGO observing run: for long years, the letters gleamed like glyphs from the future -- this week, it starts.
+Charts and checklists Megaparsecs-long are ended.
+My work here at AEI Hannover is calm compared to the buzz palpable in the online logbooks and in the voices down the hall. 
+If we can see continuous gravitational waves from Scorpius X-1, then their trace will steadily build, perhaps discernable by winter.
+Yet those at the observatories and in the depths of the instrument must make their machines work all at once.
+Hectic days and sleepless nights!
+I remember it, while a visitor at Hanford Observatory a half-decade ago, when last the observatories saw light.
+Now a half-world away, the future then promised has arrived.
+Millions of meters away, all I perceive is the quiet.
+
+Tuesday, 15 September 2015 (as told 17 November 2015):
+
+
+
+ORIGINAL VERSION, 22 September 2015
+
+Monday, 14 September 2015 (as told 22 September 2015)
 
 Who knew life in Germany would be so hectic? 
 Everyone has been talking about O1, the first Advanced LIGO observing run, since I got here eight months ago.
@@ -24,7 +44,7 @@ Space is calling out to us?
 Well then quiet it down and tell it to come back next year! 
 We're not ready -- I'm not ready -- and the to-do list is a Megaparsec long.
 
-Tuesday, 15 September 2015:
+Tuesday, 15 September 2015 (as told 22 September 2015):
 
 An email: it's our director.
 "Dear Group", it begins. 
@@ -69,20 +89,20 @@ How about "Hydra's Head"?
 Hmm, I am not sure I like all the associations: not the friendliest of mythical beasts, nor of supervillain organizations.
 
 
-Wednesday, 16 September 2015:
+Wednesday, 16 September 2015 (as told 22 September 2015):
 
-Thursday, 17 September 2015:
+Thursday, 17 September 2015 (as told 22 September 2015):
 
 We should check the data.
 Save all the data -- offline.
 Just in case.
 
-Friday, 18 September 2015:
+Friday, 18 September 2015 (as told 22 September 2015):
 
 O1 begins.
 We listened to the sounds.
 
-Saturday, 19 September 2015:
+Saturday, 19 September 2015 (as told 22 September 2015):
 
 On the Event log, all the hardware injection channels checked.
 They look good, and our hardware injections were not ready.
@@ -90,6 +110,3 @@ If this were faked, it would have had to have been done in software -- and by so
 I am starting to believe it is real.
 Walked home to fireworks.
 
-Sunday, 20 September 2015:
-
-Monday, 21 September 2015:
